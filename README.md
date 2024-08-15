@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Shamahrem
 - 👀 I’m Software Developer
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on challenging projects
-- 📫 How to reach me https://github.com/Shammik-Bayly
+- - 📫 How to reach me https://www.instagram.com/shammik77
